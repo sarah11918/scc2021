@@ -10,6 +10,10 @@ publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 
 ---
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+We are an open membership (no audition required!), mixed-voice community choir who welcomes new (and returning!) members at the beginning of each term to work towards an end-of-term concert. We perform two Christmas concerts in December and two spring concerts in May or June and may have extra events throughout the term.
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+In 1978, Bill Leuty had a dream to start a community choir in Summerside, PEI, Canada.  He was able to make this dream a reality, and in 2013 the 70-plus member Summerside Community Choir celebrated thirty-five years of choral music.
+
+In 2014, our 40-member choir celebrated the 150th anniversary of the 1864 Charlottetown Conference with an all-Canadian "Together In Song" Concert Tour across PEI.
+
+The Summerside Community Choir sings under the direction of Dr. Margot Rejskind.
