@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Summerside Community Choir
+short_title: 
+description: A Mixed-Voice Community Choir in Summerside, PEI Canada
 baseurl:
 permalink: "/:path/"
 defaults:
@@ -31,3 +31,34 @@ gems:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+  
+# favicon: /favicon.ico
+favicon: /assets/img/favicon.png
+
+icons:
+  feedburner: 
+  twitter: summersidechoir
+  gphotos: sumchoir
+  500px:
+  tpt: 
+  google_plus: 
+  youtube: sumchoir
+  email: info@summersidechoir.ca
+  gitlab: 
+  github:
+  bitbucket:
+  facebook: SummersideChoir
+  tumblr:
+  behance:
+  dribbble:
+  flickr:
+  instagram:
+  linkedin: # full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange: # full URL
+  steam:
+  wordpress:
+
+  
