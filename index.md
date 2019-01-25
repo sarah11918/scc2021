@@ -8,6 +8,7 @@ layout: landing-page
 textline: founded in 1978
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
+show_news: true
 menu:
   navigation:
     weight: 6
