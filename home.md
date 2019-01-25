@@ -11,10 +11,10 @@ show_staff: true
 menu:
   navigation:
     identifier: _home
-    weight: 2
+    weight: 1
   footer:
     identifier: _home
-    weight: 3
+    weight: 2
 
 ---
 We are an open membership (no audition required!), mixed-voice community choir who welcomes new (and returning!) members at the beginning of each term to work towards an end-of-term concert. We perform two Christmas concerts in December and two spring concerts in May or June and may have extra events throughout the term.

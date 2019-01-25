@@ -11,7 +11,7 @@ show_staff: true
 menu:
   footer:
     identifier: _about
-    weight: 3
+    weight: 4
   navigation:
     identifier: _about
     weight: 2
