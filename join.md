@@ -7,6 +7,11 @@ layout: home
 textline: ''
 show_news: false
 date: 2019-01-25 23:11:42 +0000
+menu:
+  navigation:
+    identifier: _posts
+    weight: 3
+    title: Joining The Choir
 
 ---
 **JOINING THE CHOIR**
