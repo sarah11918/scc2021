@@ -1,7 +1,7 @@
 ---
 title: Home
 banner_image: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
-layout: landing-page
+layout: home
 heading: "  "
 partners:
 - "/uploads/2019/01/25/SSCC_LOGO_Google_polarr.jpg"
