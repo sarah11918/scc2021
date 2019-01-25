@@ -4,9 +4,7 @@ banner_image: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
 layout: landing-page
 heading: ''
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2019/01/25/SSCC_LOGO_Google_polarr.jpg"
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
