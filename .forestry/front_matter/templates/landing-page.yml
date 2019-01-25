@@ -74,3 +74,4 @@ fields:
   default: home
 pages:
 - index.md
+- home-copy.md

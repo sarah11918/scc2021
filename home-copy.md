@@ -1,0 +1,31 @@
+---
+title: Home-(copy)
+banner_image: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
+layout: landing-page
+heading: "  "
+partners:
+- "/uploads/2019/01/25/SSCC_LOGO_Google_polarr.jpg"
+services:
+- description: Performing collaborative research and providing services to support
+    the Health Sector.
+  heading: Health
+  icon: "/uploads/2017/11/13/health.png"
+- description: Performing collaborative research and providing services to support
+    the biotechnology sector.
+  heading: BioTech
+  icon: "/uploads/2017/11/13/biotech.png"
+sub_heading: "  "
+textline: |2-
+
+  Summerside Community Choir
+
+  founded 1978
+hero_button:
+  text: Learn more
+  href: "/about"
+show_news: true
+show_staff: false
+published: false
+
+---
+WHAT DOES THIS EVEN DO?
