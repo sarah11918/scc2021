@@ -10,6 +10,6 @@ menu:
     weight: 1
   navigation:
     identifier: _projects
-    weight: 4
+    weight: 3
 
 ---
