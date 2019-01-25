@@ -13,10 +13,8 @@ menu:
     weight: 6
 
 ---
-The Summerside Community Choir is an open membership (no audition required!), mixed-voice community choir who welcomes new (and returning!) members at the beginning of each term to work towards an end-of-term concert. We perform two Christmas concerts in December and two spring concerts in May or June and may have extra events throughout the term.
+The Summerside Community Choir is an open membership, mixed-voice community choir who welcomes new members at the beginning of each term to work towards an end-of-term concert. We perform two Christmas concerts in December and two spring concerts in May or June and may have extra events throughout the term.
 
-In 1978, Bill Leuty had a dream to start a community choir in Summerside, PEI, Canada.  He was able to make this dream a reality, and in 2013 the 70-plus member Summerside Community Choir celebrated thirty-five years of choral music.
-
-In 2014, our 40-member choir celebrated the 150th anniversary of the 1864 Charlottetown Conference with an all-Canadian "Together In Song" Concert Tour across PEI.
+In 1978, Bill Leuty had a dream to start a community choir in Summerside, Prince Edward Island, Canada.  He was able to make this dream a reality, and in 2018 the 50-plus member Summerside Community Choir celebrated forty years of choral music on PEI.
 
 The Summerside Community Choir sings under the direction of Dr. Margot Rejskind.
