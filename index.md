@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home-old
 banner_image: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
 layout: home
 heading: "  "
