@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Summerside Community Choir
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: founded 1978
 textline: |2-
 
   Summerside Community Choir
