@@ -5,7 +5,7 @@ banner_image: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
 heading: " "
 sub_heading: " "
 layout: landing-page
-textline: The Summerside Choir is...
+textline: founded in 1978
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
