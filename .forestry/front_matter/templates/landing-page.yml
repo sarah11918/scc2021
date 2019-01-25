@@ -43,6 +43,5 @@ fields:
   hidden: true
   default: home
 pages:
-- index.md
 - page2.md
 - summerside-community-choir.md
