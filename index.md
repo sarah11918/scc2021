@@ -11,7 +11,7 @@ show_staff: true
 show_news: true
 menu:
   navigation:
-    weight: 5
+    weight: 1
 
 ---
 The Summerside Community Choir is an open membership, mixed-voice community choir who welcomes new members at the beginning of each term to work towards an end-of-term concert. We perform two Christmas concerts in December and two spring concerts in May or June and may have extra events throughout the term.
