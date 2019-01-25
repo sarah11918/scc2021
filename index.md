@@ -1,8 +1,8 @@
 ---
-title: Summerside Community Choir - PEI Canada
+title: Home
 banner_image: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
 layout: landing-page
-heading: ''
+heading: "  "
 partners:
 - "/uploads/2019/01/25/SSCC_LOGO_Google_polarr.jpg"
 services:
@@ -14,7 +14,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: ''
+sub_heading: "  "
 textline: |2-
 
   Summerside Community Choir
