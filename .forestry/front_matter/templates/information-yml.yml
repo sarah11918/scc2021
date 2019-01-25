@@ -11,37 +11,37 @@ fields:
 - name: phone
   label: Phone
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: address_1
   label: Address 1
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: address_2
   label: Address 2
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: city
   label: City
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: state
   label: State
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: postal_code
   label: Postal code
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: country
   label: Country
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: twitter
   label: Twitter
