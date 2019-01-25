@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Summerside Community Choir - PEI Canada
 banner_image: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
 layout: landing-page
 heading: ''
