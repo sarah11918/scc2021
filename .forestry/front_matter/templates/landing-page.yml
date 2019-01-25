@@ -7,23 +7,24 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: Summerside Community Choir
   config:
     required: true
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: SCC
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: Summerside PEI Canada
 - type: file
   name: banner_image
   label: Hero Image
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
+  default: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
 - type: textarea
   name: textline
   label: Description
@@ -32,27 +33,6 @@ fields:
     required: false
     schema:
       format: markdown
-- name: services
-  label: Services
-  type: field_group_list
-  fields:
-  - name: heading
-    label: Heading
-    type: text
-    hidden: false
-    default: ''
-  - name: description
-    label: Description
-    type: text
-    hidden: false
-    default: ''
-  - name: icon
-    label: Icon
-    type: file
-    hidden: false
-    default: ''
-  hidden: false
-  default: ''
 - type: boolean
   name: show_news
   label: Show News?
