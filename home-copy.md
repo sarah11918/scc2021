@@ -1,5 +1,5 @@
 ---
-title: Home-(copy)
+title: Page2
 banner_image: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
 layout: landing-page
 heading: "  "
@@ -23,7 +23,7 @@ textline: |2-
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 published: false
 
