@@ -64,5 +64,4 @@ fields:
   default: home
 pages:
 - index.md
-- home-copy.md
 - page2.md
