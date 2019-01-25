@@ -7,7 +7,6 @@ layout: home
 textline: ''
 show_news: false
 date: 2019-01-25 23:11:42 +0000
-published: false
 
 ---
 **JOINING THE CHOIR**
