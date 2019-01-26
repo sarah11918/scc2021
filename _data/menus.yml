@@ -1,8 +1,8 @@
 ---
 footer:
-- url: https://www.facebook.com/SummersideChoir/
-  weight: 3
-  title: 'FB: SummersideChoir'
 - url: https://www.twitter.com/SummersideChoir
   weight: 2
   title: "@SummersideChoir"
+- url: https://www.facebook.com/SummersideChoir/
+  weight: 3
+  title: 'FB: SummersideChoir'

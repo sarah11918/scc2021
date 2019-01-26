@@ -8,6 +8,11 @@ layout: landing-page
 textline: Joining the Choir
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
+menu:
+  navigation:
+    identifier: _posts
+    weight: 3
+    title: Joining The Choir
 published: false
 
 ---
