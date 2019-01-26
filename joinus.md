@@ -1,11 +1,11 @@
 ---
 title: JoinUs
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2019/01/25/SCC banner crop Spring 2018.jpg"
+banner_image: "/uploads/2019/01/26/20190115_221849.jpg"
 heading: " "
 sub_heading: " "
 layout: landing-page
-textline: founded in 1978
+textline: Joining the Choir
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 published: false
