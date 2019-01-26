@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: _config.yml
+  create: all
+  match: _config.yml
 - type: heading
   label: Content
 - type: jekyll-posts
