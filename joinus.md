@@ -13,7 +13,6 @@ menu:
     identifier: _posts
     weight: 3
     title: Joining The Choir
-published: false
 
 ---
 The Summerside Community Choir is an open membership (no audition required!), mixed-voice community choir who welcomes new (and returning!) members at the beginning of each term to work towards an end-of-term concert. We perform two Christmas concerts in December and two spring concerts in May or June and may have extra events throughout the term.
