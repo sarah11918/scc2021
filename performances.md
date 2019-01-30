@@ -12,7 +12,6 @@ sub_heading: ''
 menu:
   navigation:
     weight: 5
-    title: ''
 
 ---
 # Upcoming Performances
