@@ -3,7 +3,7 @@ title: Shows
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2019/01/26/IMG_20190125_203651.jpg"
 heading: " Performances"
-sub_heading: " "
+sub_heading: " Performances"
 layout: landing-page
 textline: See us May 26 in Hunter River, and June 9 in Summerside
 publish_date: 2017-12-01 04:00:00 +0000
