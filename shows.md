@@ -5,7 +5,7 @@ banner_image: "/uploads/2019/01/26/IMG_20190125_203651.jpg"
 heading: " Performances"
 sub_heading: " "
 layout: landing-page
-textline: Joining the Choir
+textline: See us May 26 in Hunter River, and June 9 in Summerside
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 published: false
