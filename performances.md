@@ -3,7 +3,7 @@ title: Performances
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2019/01/26/IMG_20190125_203651.jpg"
 heading: ''
-sub_heading: Performances
+sub_heading: ''
 layout: landing-page
 textline: See us in concert May 26 in Hunter River, and June 9 in Summerside
 publish_date: 2017-12-01 04:00:00 +0000
@@ -22,3 +22,10 @@ Sunday, June 9 at 7:00 p.m. - Trinity United Church, Summerside PE ([map](https:
 Tickets for both performances will be available at the door 30 minutes before show time. Tickets for the Summerside concert only may be purchased in advanced from choir members.
 
 # Past Performances
+
+![](/uploads/2019/01/30/concertposterchristmas2018.jpg)
+![](/uploads/2019/01/30/concertposterspring2018.jpg)
+![](/uploads/2019/01/30/concertposterchristmas2017.jpg)
+![](/uploads/2019/01/30/concertposterspring2017.jpg)
+![](/uploads/2019/01/30/concertposterchristmas2016.jpg)
+![](/uploads/2019/01/30/concertposterspring2016.jpg)
