@@ -42,3 +42,5 @@ fields:
   type: text
   hidden: true
   default: home
+pages:
+- performances.md
