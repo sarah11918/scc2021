@@ -1,23 +1,19 @@
 ---
-title: Modern Engineering Textbook
+title: Fundraising
 date: 2016-04-20 00:00:00 +0000
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
-banner_image: "/uploads/2018/02/17/bridge3.jpg"
-sub_heading: A post-modern taking on Engineering in the Digital World
-tags:
-- engineering
-- research
-slug: ''
+banner_image: "/uploads/2019/01/30/fundraising8.jpg"
+sub_heading: Find out the fun ways you can help support the choir!
+tags: []
+slug: fundraising
+
 ---
+## Choir Merch
 
-## Overview
+The Summerside Community Choir has CDs, member-created Island cookbooks, pins and more available for sale at our concerts and community events!
 
-Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
+## Recurring Events
 
-## Editions
-
-* Edition One - 2016
-
-* Edition Two - 2017
+The choir regularly hosts open events like our "Wine Survivor" lottery and our Cake Walk/Silent Auction. We also have arrangements with local businesses like MacQuarries Meats to periodically offer great items at a discount! Keep an eye out on our website and social media feeds for announcements!
