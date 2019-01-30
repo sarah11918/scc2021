@@ -8,11 +8,11 @@ banner_image: "/uploads/2019/01/26/2018SCCIndianRiverPerform2.jpg"
 heading: Performances
 show_news: true
 textline: See us May 26 in Hunter River and June 9 in Summerside
+sub_heading: ''
 menu:
   navigation:
     weight: 5
     title: ''
-published: false
 
 ---
 # Upcoming Performances
