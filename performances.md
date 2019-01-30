@@ -8,7 +8,6 @@ layout: landing-page
 textline: See us in concert May 26 in Hunter River, and June 9 in Summerside
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
-published: false
 
 ---
 # Upcoming Performances
