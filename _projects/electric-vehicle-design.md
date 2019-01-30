@@ -2,7 +2,7 @@
 title: Choral Events and Activities
 tags: []
 date: 2018-02-25 19:07:50 +0000
-banner_image: "/uploads/2019/01/30/digby1.jpeg"
+banner_image: "/uploads/2019/01/30/digby1-1.jpeg"
 sub_heading: Join SCC members for workshops and choral weekends that are open to non-members.
 slug: events
 
