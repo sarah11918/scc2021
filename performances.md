@@ -1,7 +1,7 @@
 ---
 title: Performances
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2019/01/26/IMG_20190125_203321.jpg"
+banner_image: "/uploads/2019/01/30/Wong_DSC5788.jpeg"
 heading: " Performances"
 sub_heading: Performances
 layout: landing-page
