@@ -1,18 +1,13 @@
 ---
-title: Welcome to the Forestry Demo Site!
-date: 2017-09-25 09:09:13 +0000
-related_posts:
-- _posts/2017-02-12-modern.md
-- _posts/2017-08-01-welcome.md
-sub_heading: An introduction to Forestry
-tags:
-- Demo
-- Forestry
+title: Welcome to our new website
+date: 2019-01-01 10:09:13 +0000
+related_posts: []
+sub_heading: Happy New Year, Happy New Website!
+tags: []
 layout: post
-banner_image: ''
+banner_image: "/uploads/2019/01/30/2018-12 MallCaroling.jpg"
+
 ---
-Welcome to the Belkirk College of Engineering Demo Site!
+We've been taking a break for the holiday season, but Santa brought us a brand new website!
 
-This site allows you to explore Forestry's features and functionality, and is **not** meant to be used as a production website. To get started building your own site, please see our [documentation](https://forestry.io/docs/).
-
-Thank you for choosing to demo Forestry!
+ We hope you enjoy using it, and can still everything you're looking for. But if not, please feel free to contact us for more information!
