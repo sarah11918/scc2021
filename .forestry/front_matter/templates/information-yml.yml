@@ -7,7 +7,7 @@ fields:
   label: Email
   type: text
   hidden: false
-  default: ''
+  default: info@summersidechoir.ca
 - name: phone
   label: Phone
   type: text
@@ -16,8 +16,8 @@ fields:
 - name: address_1
   label: Address 1
   type: text
-  hidden: true
-  default: ''
+  hidden: false
+  default: 'Rehersals: Trinity United Church'
 - name: address_2
   label: Address 2
   type: text
@@ -26,13 +26,13 @@ fields:
 - name: city
   label: City
   type: text
-  hidden: true
-  default: ''
+  hidden: false
+  default: Summerside
 - name: state
   label: State
   type: text
-  hidden: true
-  default: ''
+  hidden: false
+  default: PE
 - name: postal_code
   label: Postal code
   type: text
@@ -41,12 +41,12 @@ fields:
 - name: country
   label: Country
   type: text
-  hidden: true
-  default: ''
+  hidden: false
+  default: Canada
 - name: twitter
   label: Twitter
   type: text
   hidden: false
-  default: ''
+  default: "@SummersideChoir"
 pages:
 - _data/information.yml
