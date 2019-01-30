@@ -5,7 +5,7 @@ related_posts: []
 sub_heading: Happy New Year, Happy New Website!
 tags: []
 layout: post
-banner_image: "/uploads/2019/01/30/2018-12 MallCaroling.jpg"
+banner_image: "/uploads/2019/01/30/2018-12 MallCarolingA.jpg"
 
 ---
 We've been taking a break for the holiday season, but Santa brought us a brand new website!
