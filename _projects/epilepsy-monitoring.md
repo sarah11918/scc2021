@@ -6,7 +6,7 @@ description: A portable device for epileptic patients.
 banner_image: "/uploads/2019/01/30/2017-05-06 15.19.28 SCCchooseSummerside DSCN1066B.jpg"
 sub_heading: High school students can count up to 100 hours singing with the choir!
 tags: []
-slug: ''
+slug: bursary
 
 ---
 ## Overview
