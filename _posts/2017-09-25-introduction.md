@@ -1,8 +1,8 @@
 ---
-title: Welcome to our new website
+title: Happy New Year!
 date: 2019-01-01 10:09:13 +0000
 related_posts: []
-sub_heading: Happy New Year, Happy New Website!
+sub_heading: Welcome to our new website
 tags: []
 layout: post
 banner_image: "/uploads/2019/01/30/2018-12 MallCarolingA.jpg"
