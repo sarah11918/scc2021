@@ -571,7 +571,7 @@ a,h1,h2,h3,h4,li,p{
 }
 @media{
     .logo a{
-        background-image:url(../img/logo-retina.png);
+        background-image:url(../img/logo.png);
         background-size:143px
     }
 }
