@@ -497,7 +497,7 @@ a,h1,h2,h3,h4,li,p{
     content:"";
     display:inline-block;
     height:100%;
-    vertical-align:middle;
+    vertical-align:bottom;
     margin-right:-0.25em
     /*Adjusts for spacing*/
 }
@@ -528,7 +528,7 @@ a,h1,h2,h3,h4,li,p{
     display:inline-block;
     margin:0;
     font-size:1.25em;
-    vertical-align:middle
+    vertical-align:bottom
 }
 #banner header h2 em{
     -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
@@ -541,7 +541,7 @@ a,h1,h2,h3,h4,li,p{
     border-bottom-color:transparent
 }
 #banner header .button{
-    vertical-align:middle;
+    vertical-align:bottom;
     margin-left:1em
 }
 .site-header{
