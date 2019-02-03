@@ -9,11 +9,6 @@ textline: founded in 1978
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 show_news: true
-published: false
 
 ---
-The Summerside Community Choir is an open membership, mixed-voice community choir who welcomes new members at the beginning of each term to work towards an end-of-term concert. We perform two Christmas concerts in December and two spring concerts in May or June and may have extra events throughout the term.
-
-In 1978, Bill Leuty had a dream to start a community choir in Summerside, PEI, Canada.  He was able to make this dream a reality, and in 2018 the 50-plus member Summerside Community Choir celebrated forty years of choral music.
-
-The Summerside Community Choir sings under the direction of Dr. Margot Rejskind.
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=sumchoir%40gmail.com&amp;color=%232952A3&amp;ctz=America%2FHalifax" style=" border-width:0 " width="700" height="400" frameborder="0" scrolling="no"></iframe>
