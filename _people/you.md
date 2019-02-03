@@ -8,7 +8,6 @@ sub_heading: Join the Choir
 email: ''
 linkedin: ''
 layout: person
-published: false
 
 ---
 Interested in singing with us? Find out how you can [join the choir!](/join/)
