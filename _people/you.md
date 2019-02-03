@@ -11,4 +11,4 @@ layout: person
 published: false
 
 ---
-Interested in singing with us? Find out how you can [join the choir!](/join.html)
+Interested in singing with us? Find out how you can [join the choir!](/join/)
