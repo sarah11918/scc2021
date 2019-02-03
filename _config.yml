@@ -1,18 +1,19 @@
+---
 title: Summerside Community Choir
 short_title: 
 description: A Mixed-Voice Community Choir in Summerside, PEI Canada
-baseurl:
+baseurl: 
 permalink: "/:path/"
 defaults:
-  - scope:
-      path: ""
-    values:
-      layout: page
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
+- scope:
+    path: ''
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 collections:
   people:
     output: true
@@ -22,43 +23,35 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
-# tag_page_layout: tag_page
-# tag_page_dir: tag
 jekyll-archives:
   enabled: all
-  layout: "archive"
+  layout: archive
 gems:
-  - jekyll-menus
-  - jekyll-feed
-  - jekyll-archives
-  
-# favicon: /favicon.ico
-favicon: /assets/img/favicon.png
-
+- jekyll-menus
+- jekyll-archives
+favicon: "/assets/img/favicon.png"
 icons:
   feedburner: 
   twitter: summersidechoir
   gphotos: sumchoir
-  500px:
+  500px: 
   tpt: 
   google_plus: 
   youtube: sumchoir
   email: info@summersidechoir.ca
   gitlab: 
-  github:
-  bitbucket:
+  github: 
+  bitbucket: 
   facebook: SummersideChoir
-  tumblr:
-  behance:
-  dribbble:
-  flickr:
-  instagram:
-  linkedin: # full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange: # full URL
-  steam:
-  wordpress:
-
-  
+  tumblr: 
+  behance: 
+  dribbble: 
+  flickr: 
+  instagram: 
+  linkedin: 
+  pinterest: 
+  reddit: 
+  soundcloud: 
+  stack_exchange: 
+  steam: 
+  wordpress: 
