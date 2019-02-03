@@ -11,6 +11,8 @@
       </h1>
       <nav class="main-nav">
         <ul class="navigation">
+            <label for="show-menu" class="show-menu">Show Menu</label>
+<input type="checkbox" id="show-menu" role="button">
           {% for link in site.menus.navigation %}
           <li class="{% if link.children %}nested {% endif %}{% if url == link.url %}current{% endif %}">
             {% if link.children %}
