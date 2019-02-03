@@ -33,12 +33,16 @@ fields:
     required: false
     schema:
       format: markdown
-- type: boolean
-  name: show_news
-  label: Show News?
-  description: Enables a news section with a twitter feed & latest posts
 - name: layout
   label: Layout
   type: text
   hidden: true
   default: home
+- type: boolean
+  name: staff
+  label: Show Staff
+  description: Whether to show the staff
+- type: boolean
+  name: show_news
+  label: Show News?
+  description: Enables a news section with a twitter feed & latest posts
