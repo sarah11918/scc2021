@@ -1,8 +1,8 @@
 ---
 footer:
-- url: "/performances/""
+- url: /performances/
   weight: 2
   title: 'Performances'
-- url: "/calendar/"
+- url: /calendar/
   weight: 3
   title: 'Calendar'
