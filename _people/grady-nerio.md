@@ -1,18 +1,16 @@
 ---
-title: Grady Nerio
+title: Bill Leuty
 date: 2017-11-14 10:00:44 +0000
 role:
 - partner
 - board
 thumbnail: "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
-sub_heading: Head of Board
-email: grady@belkirkcollege.com
+sub_heading: Founder
+email: ''
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
+In 1978, Bill Leuty had a dream to start a community choir in Summerside, PEI, Canada. After winning a wager with our soon-to-be first director that he could attract enough people in Summerside to start a choir, he was able to make this dream a reality. 
 
-Grady Nerio joined the Belkirk Board in 2015.
-
-Grady received his Ph.D in Mechanical Engineering from Stanford in 1978, and has worked with prestigious companies such as Boeing and Lockheed Martin.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+In 2018 the 50-plus member Summerside Community Choir celebrated forty years of choral music.
