@@ -22,30 +22,27 @@ Sunday, June 9 at 7:00 p.m. - Trinity United Church, Summerside PE ([map](https:
 
 Tickets for both performances will be available at the door 30 minutes before show time. Tickets for the Summerside concert only may be purchased in advanced from choir members.
 
-<div style="align:center;">
-
 # Past Performances
 
-<table> 
-  <tr> 
-    <td><img src="/images/concertposterchristmas2018.jpg" height="290"/></td> 
-    <td><img src="/images/concertposterspring2018.jpg" height="290"/></td> 
-  </tr> 
-  <tr> 
-    <td><img src="/images/concertposterchristmas2017.jpg" height="290"/></td>
-    <td><img src="/images/concertposterspring2017.jpg" height="290"/></td>
-  </tr> 
-  <tr> 
-    <td><img src="/images/concertposterchristmas2016.jpg" height="290"/></td>
-    <td><img src="/images/concertposterspring2016.jpg" height="290"/></td> 
-  </tr> 
-    <tr> 
-    <td><img src="/images/concertposterchristmas2015.jpg" height="290"/></td>
-    <td><img src="/images/concertposterspring2015.jpg" height="290"/></td>
-  </tr> 
-  <tr> 
-    <td><img src="/images/concertposterchristmas2014.jpg" height="290"/></td>
-    <td><img src="/images/concertposterspring2014.jpg" height="290"/></td> 
-  </tr>
+<table>
+<tr>
+<td><img src="/images/concertposterchristmas2018.jpg" height="290"/></td>
+<td><img src="/images/concertposterspring2018.jpg" height="290"/></td>
+</tr>
+<tr>
+<td><img src="/images/concertposterchristmas2017.jpg" height="290"/></td>
+<td><img src="/images/concertposterspring2017.jpg" height="290"/></td>
+</tr>
+<tr>
+<td><img src="/images/concertposterchristmas2016.jpg" height="290"/></td>
+<td><img src="/images/concertposterspring2016.jpg" height="290"/></td>
+</tr>
+<tr>
+<td><img src="/images/concertposterchristmas2015.jpg" height="290"/></td>
+<td><img src="/images/concertposterspring2015.jpg" height="290"/></td>
+</tr>
+<tr>
+<td><img src="/images/concertposterchristmas2014.jpg" height="290"/></td>
+<td><img src="/images/concertposterspring2014.jpg" height="290"/></td>
+</tr>
 </table>
-</div>
