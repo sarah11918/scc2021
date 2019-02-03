@@ -233,7 +233,7 @@ html[xmlns] .flexslider .slides{
     position:absolute;
     top:50%;
     z-index:10;
-    overflow:hidden;
+    overflow:visible;
     -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity:0;
     cursor:pointer;
@@ -905,7 +905,7 @@ input[type=checkbox]:checked ~ #menu{
 }
 .navigation li ul li:last-child{
     border-radius:0 0 3px 3px;
-    overflow:hidden
+    overflow:visible
 }
 .navigation li ul li a{
     padding:10px 15px
