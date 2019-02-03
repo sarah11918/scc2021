@@ -4,7 +4,7 @@ date: 2017-11-14 10:00:44 +0000
 role:
 - partner
 - board
-thumbnail: "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
+thumbnail: "/images/billheadshot.jpg"
 sub_heading: Founder
 email: ''
 linkedin: ''
