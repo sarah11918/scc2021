@@ -22,7 +22,7 @@ Sunday, June 9 at 7:00 p.m. - Trinity United Church, Summerside PE ([map](https:
 
 Tickets for both performances will be available at the door 30 minutes before show time. Tickets for the Summerside concert only may be purchased in advanced from choir members.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/niIwmOOsxNs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=90%" src="https://www.youtube.com/embed/niIwmOOsxNs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Past Performances
 
