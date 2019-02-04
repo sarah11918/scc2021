@@ -6,3 +6,6 @@ footer:
 - url: /calendar/
   weight: 3
   title: 'Calendar'
+- url: /join/
+  weight: 4
+  title: 'Join'
