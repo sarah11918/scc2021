@@ -2,8 +2,8 @@
 title: Calendar
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/images/aboutbanner1.jpg"
-heading: " "
-sub_heading: " "
+heading: ''
+sub_heading: ''
 layout: regular-page
 textline: founded in 1978
 publish_date: 2017-12-01 04:00:00 +0000
