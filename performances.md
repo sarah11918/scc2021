@@ -1,7 +1,7 @@
 ---
 title: Performances
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2019/01/26/IMG_20190125_203651.jpg"
+banner_image: "/images/performancesbanner1.jpg"
 heading: ''
 sub_heading: ''
 layout: regular-page
@@ -9,9 +9,6 @@ textline: See us in concert May 26 in Hunter River, and June 9 in Summerside
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
 show_news: true
-menu:
-  navigation:
-    weight: 6
 
 ---
 # Upcoming Performances
