@@ -1,7 +1,7 @@
 ---
 title: Join
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/images/joinbanner1.jpg"
+banner_image: "/uploads/2019/01/26/20190115_221849.jpg"
 heading: ''
 sub_heading: ''
 layout: regular-page
@@ -9,6 +9,11 @@ textline: Joining the Choir
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 show_news: true
+menu:
+  navigation:
+    identifier: _posts
+    weight: 3
+    title: Joining The Choir
 
 ---
 We welcome new members for the first three weeks of rehearsals at the beginning of each term in September and January. There is no formal audition process for new members. Those who wish to join as a new singer can simply show up to the first rehearsal, at which point music will be distributed to all singers and you will choose your voice part (Soprano, 2nd Soprano, Alto, Tenor, Baritone, Bass). You are welcome to contact us ahead of time with questions, and we encourage a note just to let us know you might be coming so you'll get all the same pre-term prep info and notifications as our registered members, but it's not required.

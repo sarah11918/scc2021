@@ -1,11 +1,11 @@
 ---
 footer:
-- url: /performances/
-  weight: 2
-  title: 'Performances'
-- url: /calendar/
-  weight: 3
-  title: 'Calendar'
-- url: /join/
+- url: "/join/"
   weight: 4
-  title: 'Join'
+  title: Join
+- url: "/calendar/"
+  weight: 3
+  title: Calendar
+- url: "/performances/"
+  weight: 2
+  title: Performances
