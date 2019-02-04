@@ -5,7 +5,7 @@ banner_image: "/uploads/2019/01/26/IMG_20190125_203651.jpg"
 heading: ''
 sub_heading: ''
 layout: regular-page
-textline: See us in concert May 26 in Hunter River, and June 9 in Summerside
+textline: 2019 concert dates: May 26 in Hunter River and June 9 in Summerside
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
 show_news: true
