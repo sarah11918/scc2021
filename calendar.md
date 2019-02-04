@@ -4,7 +4,7 @@ date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2019/01/26/2018SCCIndianRiverPerform2.jpg"
 heading: " "
 sub_heading: " "
-layout: landing-page
+layout: regular-page
 textline: founded in 1978
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
