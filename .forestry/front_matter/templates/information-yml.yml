@@ -50,3 +50,4 @@ fields:
   default: "@SummersideChoir"
 pages:
 - _data/information.yml
+- _data/information.yml
