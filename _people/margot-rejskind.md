@@ -18,4 +18,4 @@ Dr. Rejskind is a native of Montreal, where she completed her degree in Voice Pe
 
  
 
-Since moving to PEI in 2013, Dr. Rejskind has been teaching private voice, ear training, and conducting at her Brighton Singing Studio; she is also the artistic director for Luminos Ensemble, Forte Men’s Choir, and Tapestries Community Choir, and a sessional lecturer in the Music Department at UPEI.
+Since moving to PEI in 2013, Dr. Rejskind has been teaching private voice, ear training, and conducting at her Brighton Singing Studio; she is also the artistic director for Luminos Ensemble and Forte Men’s Choir, and a sessional lecturer in the Music Department at UPEI.
