@@ -1,7 +1,7 @@
 ---
 title: Calendar
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2019/01/26/2018SCCIndianRiverPerform2.jpg"
+banner_image: "/images/aboutbanner1.jpg"
 heading: " "
 sub_heading: " "
 layout: regular-page
