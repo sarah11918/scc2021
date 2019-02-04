@@ -5,7 +5,7 @@ related_posts: []
 sub_heading: Welcome to our new website
 tags: []
 layout: post
-banner_image: "/uploads/2019/01/30/2018 SCC from David_DSC1238B.jpg"
+banner_image: "/images/post1.JPG"
 
 ---
 We've been taking a break for the holiday season, but Santa brought us a brand new website!
