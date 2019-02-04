@@ -7,9 +7,11 @@ sub_heading: ''
 layout: regular-page
 textline: 2019 spring concert dates - May 26 in Hunter River and June 9 in Summerside
 publish_date: 2017-12-01 04:00:00 +0000
-show_staff: false
+show_staff: true
 show_news: true
-
+menu:
+  navigation:
+    weight: 6
 ---
 # Upcoming Performances
 
