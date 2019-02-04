@@ -3,7 +3,7 @@ title: Dr. Margot Rejskind
 date: 2017-11-14 10:54:31 +0000
 role:
 - staff
-thumbnail: "/uploads/2019/01/26/margotheadshot.jpg"
+thumbnail: "/images/margotheadshot.jpg"
 sub_heading: Director
 email: ''
 linkedin: ''
