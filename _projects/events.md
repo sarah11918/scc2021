@@ -16,7 +16,7 @@ Every year, members of the Summerside Community Choir attend events and workshop
 
 # Choral Workshops
 
-Members of our group often travel around the Maritimes to participate in special workshops and educational events. You can check the [Summerside Choir's Google Calendar](https://summersidechoir.ca/calendar.html) to see which events are on our radar, and contact us if you'd like to join us.
+Members of our group often travel around the Maritimes to participate in special workshops and educational events. You can check the [Summerside Choir's Google Calendar](/calendar/) to see which events are on our radar, and contact us if you'd like to join us.
 
 # Concerts
 
