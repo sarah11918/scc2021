@@ -1,7 +1,7 @@
 ---
 title: Join
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/images/joinbanner1.jpg"
+banner_image: "/images/joinbanner2.jpg"
 heading: ''
 sub_heading: ''
 layout: regular-page
