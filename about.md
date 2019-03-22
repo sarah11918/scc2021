@@ -2,7 +2,7 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/images/scctestphoto5.jpg"
-heading: ''
+heading: " "
 sub_heading: ''
 layout: landing-page
 textline: founded in 1978
