@@ -1,8 +1,8 @@
 ---
 title: Performances
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/images/performancesbanner1.jpg"
-heading: ''
+banner_image: "/images/scctestphoto5.jpg"
+heading: " "
 sub_heading: ''
 layout: regular-page
 textline: 2019 spring concert dates - May 26 in Hunter River and June 9 in Summerside
