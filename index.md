@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/images/homebanner1.jpg"
+banner_image: "/images/scctestphoto5.jpg"
 heading: " "
 sub_heading: ''
 layout: landing-page
