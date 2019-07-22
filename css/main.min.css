@@ -813,7 +813,7 @@ nav ul a{
     background: #19c589;
     text-align: center;
     padding: 10px 0;
-    display: none;
+    /* display: none; */
 }
 /*Hide checkbox*/
 /* input[type=checkbox]{
