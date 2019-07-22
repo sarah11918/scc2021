@@ -816,9 +816,9 @@ nav ul a{
     display: none;
 }
 /*Hide checkbox*/
-input[type=checkbox]{
+/* input[type=checkbox]{
     display: none;
-}
+} */
 /*Show menu when invisible checkbox is checked*/
 input[type=checkbox]:checked ~ #menu{
     display: block;
