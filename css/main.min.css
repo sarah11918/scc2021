@@ -577,7 +577,7 @@ a,h1,h2,h3,h4,li,p{
 .logo{
     margin:0
 }
-.logo a{
+.logo{
     margin-top:7px;
     display:block;
     width:75px;
