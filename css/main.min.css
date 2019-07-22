@@ -525,6 +525,7 @@ a,h1,h2,h3,h4,li,p{
     vertical-align:bottom;
     max-width:400px;
     white-space:normal
+    padding-top:60%;
 }
 #banner .call-to-action h1{
     font-size:40px;
