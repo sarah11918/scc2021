@@ -522,7 +522,7 @@ a,h1,h2,h3,h4,li,p{
 }
 #banner .call-to-action{
     display:inline-block;
-    /* vertical-align:bottom; */ 
+    vertical-align:bottom; 
     max-width:400px;
     white-space:normal;
 }
