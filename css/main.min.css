@@ -479,6 +479,7 @@ html[xmlns] .flexslider .slides{
         right:10px
     }
 }
+
 /* Theme styles */
 /* Base colors*/
 /* $brand-80-color: rgba($color-brand, 0.8);
@@ -507,6 +508,7 @@ html[xmlns] .flexslider .slides{
     max-width:1100px;
     margin:0 auto
 }
+
 @media #{
     "(min-width: 1024px) and (max-width: 1280px)"
 }
@@ -662,12 +664,18 @@ a,h1,h2,h3,h4,li,p{
     overflow:hidden;
     float:left
 }
+
+/*REMOVING SOME MEDIA QUERIES - removing logo
 @media{
     .logo a{
         background-image:url(../img/logo.png);
         background-size:75px
     }
 }
+
+*/
+
+
 .plain-header{
     background:#f4f4f4;
     padding:40px;
@@ -892,10 +900,14 @@ nav ul a{
 /* input[type=checkbox]{
     display: none;
 } */
-/*Show menu when invisible checkbox is checked*/
+/*Show menu when invisible checkbox is checked
 input[type=checkbox]:checked ~ #menu{
     display: block;
 }
+
+*/
+/*REMOVING SOME MEDIA QUERIES
+
 @media (max-width:840px){
     .main-nav{
         overflow: auto;
@@ -905,6 +917,8 @@ input[type=checkbox]:checked ~ #menu{
         display:block;
     }
 }
+*/
+
 
 .side-nav{
     margin-top:5px;
