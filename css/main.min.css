@@ -520,11 +520,14 @@ html[xmlns] .flexslider .slides{
         margin:0 auto
     }
 }
-@media (max-width:768px){
+
+/* @media (max-width:768px){
     .container{
-        margin:0 2em
+       margin:0 2em
     }
 }
+*/
+
 /* font weights 300 (light), 400 (normal), 500 (medium), 700 (bold)*/
 .pure-g [class*=pure-u],button,html,input,select,textarea{
     font-family:Roboto,sans-serif;
