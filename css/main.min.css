@@ -185,9 +185,8 @@ td,th{
   }
   
     #nav-toggle, .burger-menu {
-    /* visibility: hidden */
     display: none;
-    /* opacity: 0; */
+    
   }
   
   @media only screen and (max-width: 1025px) {
@@ -230,7 +229,7 @@ td,th{
     .burger-menu {
     grid-column: 1;
     align-self: center;
-    margin-left: 20px;
+    /* margin-left: 20px; */
   }
       
       
@@ -521,12 +520,12 @@ html[xmlns] .flexslider .slides{
     }
 }
 
-/* @media (max-width:768px){
+@media (max-width:768px){
     .container{
        margin:0 2em
     }
 }
-*/
+
 
 /* font weights 300 (light), 400 (normal), 500 (medium), 700 (bold)*/
 .pure-g [class*=pure-u],button,html,input,select,textarea{
