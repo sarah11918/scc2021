@@ -28,6 +28,9 @@ Tickets for all performances will be available at the door 30 minutes before sho
 <div class="video-container">
     <iframe width="80%" src="https://www.youtube.com/embed/niIwmOOsxNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+See more of the choir on [our YouTube channel](https://www.youtube.com/user/SummersideChoirPEI/)!
+
 # Past Performances
 
 <table>
