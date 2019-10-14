@@ -39,9 +39,9 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2019-04-14-pei-does-mahler.md
+- _posts/2019-05-26-thank-you-hunter-river.md
 - _posts/2019-06-04-it-s-getting-close.md
-- _posts/thank-you-hunter-river.md
-- _posts/pei-does-mahler.md
 - _posts/hitting-the-high-c-s.md
 - _posts/a-sweet-fundraiser.md
 - _posts/happy-valentine-s-day.md
