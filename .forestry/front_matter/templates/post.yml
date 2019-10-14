@@ -39,11 +39,11 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2019-02-18-hitting-the-high-c-s.md
 - _posts/2019-02-12-happy-valentine-s-day.md
 - _posts/2019-01-07-shaking-off-the-old-year.md
 - _posts/2019-04-14-pei-does-mahler.md
 - _posts/2019-05-26-thank-you-hunter-river.md
 - _posts/2019-06-04-it-s-getting-close.md
-- _posts/hitting-the-high-c-s.md
 - _posts/a-sweet-fundraiser.md
 - _posts/2019-03-08-see-us-at-confed-centre-with-the-peiso.md
