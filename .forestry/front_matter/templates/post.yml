@@ -39,4 +39,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/shaking-off-the-old-year.md
 - _posts/2019-03-08-see-us-at-confed-centre-with-the-peiso.md
