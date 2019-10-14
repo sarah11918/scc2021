@@ -2,7 +2,7 @@
 layout: post
 title: Hitting the High C's
 sub_heading: Upcoming Choral Fest in Digby, NS
-date: 
+date: 2019-02-18 23:00:00 +0000
 tags: []
 banner_image: ''
 related_posts: []
