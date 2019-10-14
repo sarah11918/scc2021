@@ -39,6 +39,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/it-s-getting-close.md
 - _posts/thank-you-hunter-river.md
 - _posts/pei-does-mahler.md
 - _posts/hitting-the-high-c-s.md
