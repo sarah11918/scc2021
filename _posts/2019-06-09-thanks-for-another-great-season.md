@@ -2,7 +2,7 @@
 layout: post
 title: Thanks for another great season!
 sub_heading: We hope you enjoyed our spring concert as much as we did.
-date: 
+date: 2019-06-09 22:00:00 +0000
 tags: []
 banner_image: ''
 related_posts: []
