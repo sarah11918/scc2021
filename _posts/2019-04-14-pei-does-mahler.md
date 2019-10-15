@@ -3,12 +3,14 @@ layout: post
 title: PEI does Mahler
 sub_heading: 150 musicians perform the Canadian premiere of Yoon Jae Lee's orchestral
   reduction of Mahler's 3rd
-date: 2019-04-14 22:00:00 +0000
+date: 2019-04-14T22:00:00.000+00:00
 tags: []
 banner_image: ''
 related_posts: []
 
 ---
+![](/images/IMG_3145.jpg)
+
 75 instrumentalists and 75 choristers combined forces on the weekend for a spectacular performance!
 
 Under the direction of Mark Shapiro, the women of Luminos Ensemble, Sirens, Summerside Community Choir and the UPEI Vocal Ensemble along with the younger women of Harmonia and Le Ragazze accompanied the PEI Symphony Orchestra and mezzo soprano Christianne Rushton in an ambitious production of Mahler 3.
@@ -18,3 +20,17 @@ After only a few weeks of separate rehearsals, our singers enjoyed coming togeth
 Thank you to Maestro Mark Shapiro, choral directors Dr. Margot Rejskind, Kelsea McLean, Sung Ha Shin-Bouey, our fellow musical collaborators, and our wonderful audience for an amazing weekend!
 
 [Facebook Event Page](https://www.facebook.com/events/2369100906441838/)
+
+![](/images/20190411_211435.jpg)
+
+![](/images/20190411_205754.jpg)
+
+![](/images/20190413_151200.jpg)
+
+![](/images/20190415.jpg)
+
+![](/images/20190414_141555_resized.jpg)
+
+![](/images/pbs.twimg.com_media_D4JLE9uX4AQSYyU.jpg)
+
+![](/images/20190414_132717-1.jpg) We even picked up a new soprano along the way...  ;)
