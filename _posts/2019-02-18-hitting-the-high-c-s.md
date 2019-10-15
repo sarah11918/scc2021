@@ -2,12 +2,14 @@
 layout: post
 title: Hitting the High C's
 sub_heading: Upcoming Choral Fest in Digby, NS
-date: 2019-02-18 23:00:00 +0000
+date: 2019-02-18T23:00:00.000+00:00
 tags: []
 banner_image: ''
 related_posts: []
 
 ---
+![](/images/20190219_202330.jpg)
+
 This year, we are excited that our own Director Dr. Margot Rejskind will be the guest conductor for the Digby High C's Choral Fest.
 
 This is a fast and fun choral bootcamp weekend, open to all choral singers around the Maritimes and beyond. Singers receive music in advance, then show up for rehearsals Friday and Saturday for a performance Sunday afternoon.
