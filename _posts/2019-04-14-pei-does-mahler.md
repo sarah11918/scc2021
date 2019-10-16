@@ -21,6 +21,10 @@ Thank you to Maestro Mark Shapiro, choral directors Dr. Margot Rejskind, Kelsea 
 
 [Facebook Event Page](https://www.facebook.com/events/2369100906441838/)
 
+![](/images/20190414_185314-1.jpg)
+
+![](/images/20190414_185039-1.jpg)
+
 ![](/images/20190411_211435.jpg)
 
 ![](/images/20190411_205754.jpg)
