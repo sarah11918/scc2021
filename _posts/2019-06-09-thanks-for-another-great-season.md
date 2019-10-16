@@ -26,9 +26,9 @@ Just a reminder that we are an open, un-auditioned choir, so if you like what yo
 
 ![](/images/DSC_8850.jpg)
 
-![](/images/DSC_8852.jpg)
+![](/images/DSC_8852_1.jpg)
 
-![](/images/DSC_8849.jpg)
+![](/images/DSC_8849_1.jpg)
 
 ![](/images/DSC_8832.jpg)
 
