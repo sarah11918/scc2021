@@ -5,7 +5,7 @@ banner_image: "/images/scctestphoto5.jpg"
 heading: " "
 sub_heading: ''
 layout: regular-page
-textline: 2019 Christmas concerts - Dec 1 in Winsloe and Dec 9 in Summerside
+textline: 2019 Christmas concerts - Dec 1 in Winsloe and Dec 8 in Summerside
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 show_news: true
