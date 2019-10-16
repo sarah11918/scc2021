@@ -14,4 +14,4 @@ Thank you to the warm crowd at Central Queens United Church in Hunter River for 
 
 We enjoyed your hospitality and enthusiasm, and hope to see you again soon!
 
-![](/images/20190526_195626.jpg)
+![](/images/20190526_195626_1.jpg)
