@@ -28,3 +28,5 @@ We are thrilled that Artistic Director Matthew Leese contacted the Summerside Co
 ![](/images/20190816_203017.jpg)
 
 ![](/images/VideoCapture_20191016-145036.jpg)
+
+[Listen to a short snippet of the performance on the Monadnock Chorus' Facebook Page!](https://www.facebook.com/monadnockchorus/videos/2786196348075106/)
