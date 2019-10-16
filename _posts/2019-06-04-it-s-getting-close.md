@@ -14,6 +14,6 @@ It's full dress rehearsal (if your dress includes a yellow rain hat, that is!) a
 
 ![](/images/20190604_193643.jpg)
 
-![](/images/20190604_191811.jpg)
+![](/images/20190604_191811_1.jpg)
 
 ![](/images/20190604_200818.jpg)
