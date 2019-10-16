@@ -8,9 +8,8 @@ banner_image: ''
 related_posts: []
 
 ---
-
 ![](/images/20190626_073139.jpg)
 
 You can't always get a full choir in the summer, but when a fellow chorister chooses a summer wedding date, you throw together a rag tag team of voices!
 
-![](/images/DSC_8836.jpg)
+![](/images/DSC_8836_1.jpg)
