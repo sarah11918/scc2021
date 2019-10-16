@@ -8,7 +8,7 @@ banner_image: ''
 related_posts: []
 
 ---
-![](/images/20190604_193607.jpg)
+![](/images/20190604_193607_1.jpg)
 
 It's full dress rehearsal (if your dress includes a yellow rain hat, that is!) at our final practice of the season. Working out last minute staging and choreography on stage. It all comes together at the last minute anyway, right??
 
