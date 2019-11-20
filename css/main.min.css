@@ -609,7 +609,8 @@ a,h1,h2,h3,h4,li,p{
 
 
 #banner .call-to-action h1{
-    font-size:40px;
+    margin-top: 0;
+    font-size:30px;
     font-weight:700;
     color:#fff;
     line-height:1.2em;
