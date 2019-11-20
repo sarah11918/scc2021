@@ -206,6 +206,13 @@ td,th{
     }
   } 
   
+   @media only screen and (min-width: 770px) and (max-width: 1025px) {
+       nav {
+           padding-left: 20px;
+       }
+   }
+
+
     .burger-menu {
     width: 40px;
   }
