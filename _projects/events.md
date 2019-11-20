@@ -1,9 +1,9 @@
 ---
-title: Choral Events and Activities
+title: ''
 tags: []
-date: 2018-02-25 19:07:50 +0000
+date: '2018-02-25T19:07:50.000+00:00'
 banner_image: "/images/eventsbanner1.jpg"
-sub_heading: Join SCC members for workshops and choral weekends that are open to non-members.
+sub_heading: ''
 slug: events
 
 ---
