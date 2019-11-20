@@ -747,7 +747,7 @@ a,h1,h2,h3,h4,li,p{
     font-weight: bold;
 }
 
-.content a:hover {
+.content a:focus {
     color: blue;
     font-weight: bold;
 }
