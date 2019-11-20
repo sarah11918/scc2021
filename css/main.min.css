@@ -218,7 +218,8 @@ td,th{
   }
   
     .logo-center {
-    font-size: 18px;
+    font-size: 1.5em;
+    text-decoration: none;
     padding: 1rem;
   }
   
