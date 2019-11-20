@@ -26,8 +26,12 @@ audio:not([controls]){
 a{
     background-color:transparent
 }
-a:active,a:hover{
+a:active {
     outline:0
+}
+
+a:hover, a:focus{
+    color: #8b2004
 }
 abbr[title]{
     border-bottom:1px dotted
