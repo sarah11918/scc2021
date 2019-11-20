@@ -1327,6 +1327,16 @@ input[type=checkbox]:checked ~ #menu{
 .column-list-layout .post .post-body p{
     font-size:14px
 }
+
+.post-body h3 a:hover {
+    text-decoration: underline;
+}
+
+.post-body h3 a:focus {
+    text-decoration: underline;
+}
+
+
 .grid-layout .card{
     margin:0 1em;
     border-radius:3px;
