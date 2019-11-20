@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Choral Events and Workshops
 tags: []
 date: '2018-02-25T19:07:50.000+00:00'
 banner_image: "/images/eventsbanner1.jpg"
