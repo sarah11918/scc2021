@@ -787,6 +787,11 @@ a,h1,h2,h3,h4,li,p{
 .site-footer .footer-col ul li a:hover{
     text-decoration:underline
 }
+
+.site-footer .footer-col ul li a:focus{
+    text-decoration:underline
+}
+
 #banner+.site-footer{
     margin-top:0px
 }
@@ -1335,15 +1340,6 @@ input[type=checkbox]:checked ~ #menu{
 .column-list-layout .post .post-body h3 a:focus{
     text-decoration:underline;
 }
-
-.post-body a:hover {
-    text-decoration: underline;
-}
-
-.post-body a:focus {
-    text-decoration: underline;
-}
-
 
 .grid-layout .card{
     margin:0 1em;
