@@ -30,10 +30,16 @@ a:active {
     outline:0
 }
 
-a:hover, a:focus{
+a:focus{
     color: #230fd3
     text-decoration: underline;
 }
+
+a:hover{
+    color: #230fd3
+    text-decoration: underline;
+}
+
 abbr[title]{
     border-bottom:1px dotted
 }
