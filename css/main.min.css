@@ -1328,6 +1328,14 @@ input[type=checkbox]:checked ~ #menu{
     font-size:14px
 }
 
+.column-list-layout .post .post-body h3 a:hover{
+    text-decoration:underline;
+}
+
+.column-list-layout .post .post-body h3 a:focus{
+    text-decoration:underline;
+}
+
 .post-body a:hover {
     text-decoration: underline;
 }
