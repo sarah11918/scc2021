@@ -30,12 +30,12 @@ a:active {
     outline:0
 }
 
-a:focus{
+p a:focus{
     color: #230fd3
     text-decoration: underline;
 }
 
-a:hover{
+p a:hover{
     color: #230fd3
     text-decoration: underline;
 }
