@@ -602,7 +602,8 @@ a,h1,h2,h3,h4,li,p{
 }
 #banner{
     background-position:0 0;
-    background-size:cover;
+    background-size:contain;
+    background-repeat:no-repeat;
     height:28em;
     text-align:center;
     position:relative;
