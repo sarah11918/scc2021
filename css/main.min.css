@@ -221,6 +221,10 @@ td,th{
        nav {
            padding-left: 20px;
        }
+       .content .content-narrow {
+           padding-left: 20px;
+       }
+
    }
 
 
