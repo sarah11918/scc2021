@@ -176,6 +176,7 @@ td,th{
 
   .logo-center {
     grid-column: 2;
+    text-align: center;
   }
 
 
@@ -198,9 +199,6 @@ td,th{
       display: none;
     }
 
-    nav {
-        margin: 0 auto;
-    }
 
     #nav-toggle:checked ~ .left-menu {
       display: grid;
