@@ -32,6 +32,7 @@ a:active {
 
 a:hover, a:focus{
     color: #8b2004
+    text-decoration: underline;
 }
 abbr[title]{
     border-bottom:1px dotted
