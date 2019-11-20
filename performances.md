@@ -1,7 +1,7 @@
 ---
 title: Performances
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/images/scctestphoto5.jpg"
+banner_image: "/images/homebanner1.jpg"
 heading: " "
 sub_heading: ''
 layout: regular-page
