@@ -752,6 +752,10 @@ a,h1,h2,h3,h4,li,p{
     text-decoration: underline;
 }
 
+.site-footer a:hover{
+    text-decoration: underline;
+}
+
 .site-footer .copyright{
     background-color:#222;
     min-height:70px
