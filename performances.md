@@ -14,9 +14,13 @@ show_news: true
 ---
 # 2019 Performances
 
+### **_The Singing Heart_**
+
 Sunday, June 1 at 7:00 p.m. - Central Queen's United Church, Hunter River PE ([map](https://goo.gl/maps/8BsDwLN2jLK2))
 
 Sunday, June 9 at 7:00 p.m. - Trinity United Church, Summerside PE ([map](https://goo.gl/maps/nuzN7oMkWLG2))
+
+### **_I'll be Home for Christmas_**
 
 Sunday, December 1 at 7:00 p.m. - Winsloe United Church, Winsloe PE ([map](https://goo.gl/maps/WByb5N9n9HiQBCL66))
 
