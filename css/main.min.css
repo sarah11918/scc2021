@@ -1222,6 +1222,17 @@ input[type=checkbox]:checked ~ #menu{
     color:#1e405d;
     font-size:18px
 }
+
+.posts li a:hover {
+    color: #8b2004;
+    text-decoration: underline;
+}
+
+.posts li a:focus {
+    color: #8b2004;
+    text-decoration: underline;
+}
+
 .news-twitter .posts li date{
     display:block;
     font-size:14px;
