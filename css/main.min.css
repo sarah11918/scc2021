@@ -755,6 +755,19 @@ a,h1,h2,h3,h4,li,p{
     color: blue;
     font-weight: bold;
 }
+
+.content h3 a:hover {
+    color: #8b2004
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.content h3 a:focus {
+    color: #8b2004
+    font-weight: 400;
+    text-decoration: underline;
+}
+
 .site-footer{
     padding-top:70px;
     background-color:#2f2f2f;
