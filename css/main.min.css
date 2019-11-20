@@ -747,6 +747,11 @@ a,h1,h2,h3,h4,li,p{
     text-decoration:none;
     color:hsla(0,0%,100%,.6)
 }
+
+.site-footer a:focus{
+    text-decoration: underline;
+}
+
 .site-footer .copyright{
     background-color:#222;
     min-height:70px
