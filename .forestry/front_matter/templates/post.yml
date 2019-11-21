@@ -39,8 +39,8 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/don-t-think-of-it-as-losing-a-summer.md
-- _posts/happy-halloween.md
+- _posts/2019-10-30-happy-halloween.md
+- _posts/2019-09-02-don-t-think-of-it-as-losing-a-summer.md
 - _posts/will-you-be-home-for-christmas.md
 - _posts/2019-04-14-pei-does-mahler.md
 - _posts/2019-06-09-thanks-for-another-great-season.md
