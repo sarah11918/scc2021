@@ -5,8 +5,7 @@ banner_image: ''
 heading: " "
 sub_heading: ''
 layout: regular-page
-textline: The Summerside Community Choir performs two Spring concerts in May/June
-  and two Christmas concerts in December annually.
+textline: We perform two Spring concerts and two Christmas concerts annually.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 show_news: true
