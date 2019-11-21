@@ -39,6 +39,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/will-you-be-home-for-christmas.md
 - _posts/2019-04-14-pei-does-mahler.md
 - _posts/2019-06-09-thanks-for-another-great-season.md
 - _posts/2019-05-26-thank-you-hunter-river.md
