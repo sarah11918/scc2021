@@ -8,6 +8,8 @@ banner_image: ''
 related_posts: []
 
 ---
+![](/images/20190108_204700.jpg)
+
 . . . but "gaining a new term of choir!"
 
 Rehearsals start up again on Tuesday, September 10 and all are welcome! We're looking forward to seeing many old and new faces as we prepare for the 2019 Christmas series. Let's finish off the decade with a real bang!
