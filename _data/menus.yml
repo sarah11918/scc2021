@@ -2,7 +2,7 @@
 footer:
 - url: "/join/"
   weight: 4
-  title: Join
+  title: Join the Choir
 - url: "/calendar/"
   weight: 3
   title: Calendar
