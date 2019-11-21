@@ -1203,7 +1203,7 @@ input[type=checkbox]:checked ~ #menu{
 }
 .main-message{
     text-align:center;
-    padding:30px 0;
+    padding:0;
     background:#f4f4f4;
     color:#1e405d
 }
