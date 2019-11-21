@@ -1208,7 +1208,7 @@ input[type=checkbox]:checked ~ #menu{
     color:#1e405d
 }
 .main-message p{
-    font-size:22px;
+    font-size:20px;
     font-weight:300;
     line-height:1.5em
 }
