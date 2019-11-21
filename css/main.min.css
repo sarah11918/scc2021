@@ -852,6 +852,14 @@ a,h1,h2,h3,h4,li,p{
 #banner+.site-footer{
     margin-top:0px
 }
+
+.site-footer .footer-social {
+    color:#fff;
+}
+
+.footer-social {
+    color:#fff;
+}
 .search-box{
     position:relative
 }
