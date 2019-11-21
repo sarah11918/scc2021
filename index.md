@@ -11,3 +11,4 @@ show_staff: true
 show_news: true
 
 ---
+<a src="/images/2019_DSC6792.jpg" class="main-page-images">
