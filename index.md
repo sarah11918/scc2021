@@ -9,6 +9,4 @@ textline: Summerside Community Choir is the longest-running community choir on P
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 show_news: true
-
 ---
-<a src="/images/2019_DSC6792.jpg" class="main-page-images">
