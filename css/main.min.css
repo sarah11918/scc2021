@@ -156,6 +156,10 @@ td,th{
 
 /* Sarah's custom CSS */
 
+.main-page-images {
+    max-width: 1200px;
+}
+
 .video-container {
     position:relative;
 	padding-bottom:56.25%;
