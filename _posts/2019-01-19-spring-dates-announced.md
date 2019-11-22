@@ -9,7 +9,7 @@ related_posts: []
 ---
 ## Save the dates: May 26 and June 9
 
-![](/images/joinbanner.jpg)
+![](/images/banners/joinbanner.jpg)
 
 We are pleased to announce the dates of our spring concerts.
 
