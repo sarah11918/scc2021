@@ -2,7 +2,7 @@
 title: Community Service Bursary Program
 date: 2016-04-20 00:00:00 +0000
 categories: []
-banner_image: "/images/bursarybanner1.jpg"
+banner_image: "/images/projects/bursarybanner1.jpg"
 sub_heading: High school students can count up to 100 hours singing with the choir!
 tags: []
 slug: bursary

@@ -4,7 +4,7 @@ date: 2017-11-14 10:00:44 +0000
 role:
 - partner
 - board
-thumbnail: "/images/billheadshot.jpg"
+thumbnail: "/images/people/billheadshot.jpg"
 sub_heading: Founder
 email: ''
 linkedin: ''
