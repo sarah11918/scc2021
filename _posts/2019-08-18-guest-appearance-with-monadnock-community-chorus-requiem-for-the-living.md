@@ -9,7 +9,7 @@ banner_image: ''
 related_posts: []
 
 ---
-![](/images/PANO_20190817_074651-01.jpeg)
+![](/images/20190817_074651.jpg)
 
 The Monadnock Community Chorus from Peterborough, New Hampshire, celebrated their 60th anniversary with a collaborative concert tour of the Maritimes, involving local musicians at every stop, and hitting Charlottetown PEI on Friday August 16.
 
@@ -17,7 +17,7 @@ Several of our members were fortunate enough to participate in this unique exper
 
 We are thrilled that Artistic Director Matthew Leese contacted the Summerside Community Choir to be the Monadnock Chorus' "partner in crime" for their PEI stop, and admire his bravery in letting local musicians pretty much walk up on stage and join them. We think we held our own, and hope this is the beginning of a wonderful collaborative relationship between our two choirs.
 
-![](/images/20190816-114926.jpg)
+![](/images/20190816_114926.jpg)
 
 ![](/images/20190816_153255.jpg)
 
@@ -27,6 +27,6 @@ We are thrilled that Artistic Director Matthew Leese contacted the Summerside Co
 
 ![](/images/20190816_203017.jpg)
 
-![](/images/VideoCapture_20191016-145036.jpg)
+![](/images/20191016_145036.jpg)
 
 [Listen to a short snippet of the performance on the Monadnock Chorus' Facebook Page!](https://www.facebook.com/monadnockchorus/videos/2786196348075106/)
