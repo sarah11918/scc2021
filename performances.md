@@ -37,27 +37,27 @@ See more of the choir on [our YouTube channel](https://www.youtube.com/user/Summ
 
 <table>
 <tr>
-<td><img src="/images/concertposterchristmas2019.jpg" height="290"/></td>
-<td><img src="/images/concertposterspring2019.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterchristmas2019.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterspring2019.jpg" height="290"/></td>
 </tr>
 <tr>
-<td><img src="/images/concertposterchristmas2018.jpg" height="290"/></td>
-<td><img src="/images/concertposterspring2018.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterchristmas2018.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterspring2018.jpg" height="290"/></td>
 </tr>
 <tr>
-<td><img src="/images/concertposterchristmas2017.jpg" height="290"/></td>
-<td><img src="/images/concertposterspring2017.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterchristmas2017.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterspring2017.jpg" height="290"/></td>
 </tr>
 <tr>
-<td><img src="/images/concertposterchristmas2016.jpg" height="290"/></td>
-<td><img src="/images/concertposterspring2016.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterchristmas2016.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterspring2016.jpg" height="290"/></td>
 </tr>
 <tr>
-<td><img src="/images/concertposterchristmas2015.jpg" height="290"/></td>
-<td><img src="/images/concertposterspring2015.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterchristmas2015.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterspring2015.jpg" height="290"/></td>
 </tr>
 <tr>
-<td><img src="/images/concertposterchristmas2014.jpg" height="290"/></td>
-<td><img src="/images/concertposterspring2014.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterchristmas2014.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterspring2014.jpg" height="290"/></td>
 </tr>
 </table>

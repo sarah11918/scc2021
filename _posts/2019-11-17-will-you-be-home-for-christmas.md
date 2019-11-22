@@ -8,7 +8,7 @@ banner_image: ''
 related_posts: []
 
 ---
-![](/images/concertposterchristmas2019.jpg)
+<img src="/images/posters/concertposterchristmas2019.jpg" height="290"/>
 
 Please join us for one (or both!) of our Christmas concerts this season! Both shows begin at 7:00 p.m. and tickets are available at the door.
 
