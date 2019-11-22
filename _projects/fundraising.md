@@ -2,8 +2,6 @@
 title: Fundraising
 date: 2016-04-20 00:00:00 +0000
 categories: []
-description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
-  Program for Canada'
 banner_image: "/images/fundraisingbanner1.jpg"
 sub_heading: Find out the fun ways you can help support the choir!
 tags: []
