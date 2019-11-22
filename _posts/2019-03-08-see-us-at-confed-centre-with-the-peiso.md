@@ -8,7 +8,7 @@ banner_image: ''
 related_posts: []
 
 ---
-![](/images/mahler.jpg)
+![](/images/20190308_mahlerbanner.jpg)
 
 The women of Summerside Community Choir are excited to be a part of this choral-orchestral extravaganza with the PEI Symphony Orchestra and several other island choral ensembles!
 
