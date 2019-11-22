@@ -8,7 +8,7 @@ banner_image: ''
 related_posts: []
 
 ---
-![](/images/20190219_202330_1.jpg)
+![](/images/20190219_202330.jpg)
 
 This year, we are excited that our own Director Dr. Margot Rejskind will be the guest conductor for the Digby High C's Choral Fest.
 

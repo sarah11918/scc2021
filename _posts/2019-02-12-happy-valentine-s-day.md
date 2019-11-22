@@ -12,4 +12,4 @@ related_posts: []
 
 It's no fun if you don't stop and take time to smell the sugar cookies, so our social committee always makes sure we treat ourselves on special occasions.
 
-![](/images/20190212_204252_1.jpg)
+![](/images/20190212_204252.jpg)
