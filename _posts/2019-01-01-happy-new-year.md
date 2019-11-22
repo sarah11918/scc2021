@@ -8,7 +8,7 @@ layout: post
 banner_image: ''
 
 ---
-![](/images/20190101mallcaroling.jpg)
+![](/images/20190101_mallcaroling.jpg)
 
 We've been taking a break for the holiday season, but Santa brought us a brand new website!
 
