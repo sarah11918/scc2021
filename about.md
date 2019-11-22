@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01T03:00:00.000+00:00
-banner_image: "/images/IMG_3586-1.jpg"
+banner_image: "/images/20190609_IMG_3586.jpg"
 heading: " "
 sub_heading: ''
 layout: landing-page
