@@ -8,7 +8,7 @@ banner_image: ''
 related_posts: []
 
 ---
-![](/images/2019_DSC6792.jpg)
+![](/images/20190609_DAV6792_fun.jpg)
 
 It's a wrap!
 
@@ -22,16 +22,16 @@ Just a reminder that we are an open, un-auditioned choir, so if you like what yo
 
 ![](/images/20190609_IMG_3587.jpg)
 
-![](/images/DSC_8842.jpg)
+![](/images/20190609_SAR_8842.jpg)
 
-![](/images/DSC_8831.jpg)
+![](/images/20190609_SAR_8831.jpg)
 
-![](/images/DSC_8850.jpg)
+![](/images/20190609_SAR_8850.jpg)
 
-![](/images/DSC_8852_1.jpg)
+![](/images/20190609_SAR_8852.jpg)
 
-![](/images/DSC_8849_1.jpg)
+![](/images/20190609_SAR_8849.jpg)
 
-![](/images/DSC_8832.jpg)
+![](/images/20190609_SAR_8832.jpg)
 
-![](/images/DSC_8855.jpg)
+![](/images/20190609_SAR_8855.jpg)

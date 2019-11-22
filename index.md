@@ -11,4 +11,4 @@ show_staff: true
 show_news: true
 
 ---
-![](/images/2019_DSC6792.jpg)
+![](/images/20190609_DAV6792_fun.jpg)
