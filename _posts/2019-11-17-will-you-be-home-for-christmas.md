@@ -8,7 +8,7 @@ banner_image: ''
 related_posts: []
 
 ---
-![](/images/EMAIL size - HomeForChristmas Poster.jpg)
+![](/images/concertposterchristmas2019.jpg)
 
 Please join us for one (or both!) of our Christmas concerts this season! Both shows begin at 7:00 p.m. and tickets are available at the door.
 
