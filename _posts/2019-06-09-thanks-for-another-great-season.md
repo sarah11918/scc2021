@@ -18,9 +18,9 @@ We're going to take the summer off, and we'll be back before you know it in Sept
 
 Just a reminder that we are an open, un-auditioned choir, so if you like what you see (and hear) and are thinking about joining us next term, we're welcoming new members again in the fall!
 
-![](/images/IMG_3586-1.jpg)
+![](/images/20190609_IMG_3586.jpg)
 
-![](/images/IMG_3586-1g.jpg)
+![](/images/20190609_IMG_3587.jpg)
 
 ![](/images/DSC_8842.jpg)
 
