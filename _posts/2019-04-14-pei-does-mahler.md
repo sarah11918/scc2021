@@ -9,7 +9,7 @@ banner_image: ''
 related_posts: []
 
 ---
-![](/images/IMG_3145.jpg)
+![](/images/20190414_IMG_3145_fullstage.jpg)
 
 75 instrumentalists and 75 choristers combined forces on the weekend for a spectacular performance!
 
@@ -21,20 +21,20 @@ Thank you to Maestro Mark Shapiro, choral directors Dr. Margot Rejskind, Kelsea 
 
 [Facebook Event Page](https://www.facebook.com/events/2369100906441838/)
 
-![](/images/20190414_185314-1.jpg)
+![](/images/20190414_185314.jpg)
 
-![](/images/20190414_185039-1.jpg)
+![](/images/20190414_185039.jpg)
 
 ![](/images/20190411_211435.jpg)
 
 ![](/images/20190411_205754.jpg)
 
-![](/images/20190413_151200_1.jpg)
+![](/images/20190413_151200.jpg)
 
-![](/images/20190415.jpg)
+![](/images/20190415_000000.jpg)
 
-![](/images/20190414_141555_resized.jpg)
+![](/images/20190414_141555.jpg)
 
-![](/images/pbs.twimg.com_media_D4JLE9uX4AQSYyU.jpg)
+![](/images/20190414_000000.jpg)
 
-![](/images/20190414_132717-1.jpg) We even picked up a new soprano along the way...  ;)
+![](/images/20190414_132717.jpg) We even picked up a new soprano along the way...  ;)
