@@ -58,6 +58,6 @@ See more of the choir on [our YouTube channel](https://www.youtube.com/user/Summ
 </tr>
 <tr>
 <td><img src="/images/posters/concertposterchristmas2014.jpg" height="290"/></td>
-<td><img src="/images/posters/concertposterspring2014.jpg" height="290"/></td>
+<td><img src="/images/posters/concertposterspring2013.jpg" height="290"/></td>
 </tr>
 </table>
