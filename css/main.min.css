@@ -560,7 +560,8 @@ html[xmlns] .flexslider .slides{
     /* Move the general rule up into .content img {} 
     Remove this anyway once all images are properly resized. This is just visual protection.
     */
-    max-width: 360px !important;
+    width: 100%;
+    max-width: 600px !important;
 }
 
 /*@media screen (min-width: 1024px) and (max-width: 1280px) {
