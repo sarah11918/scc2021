@@ -548,6 +548,14 @@ html[xmlns] .flexslider .slides{
     margin:0 2em;
 }
 
+#past-performances-posters {
+    width:100%;
+}
+
+#past-performances-posters td {
+    text-align:center;
+}
+
 /*@media screen (min-width: 1024px) and (max-width: 1280px) {
     .container{
         max-width:1024px;

@@ -35,7 +35,7 @@ See more of the choir on [our YouTube channel](https://www.youtube.com/user/Summ
 
 # Past Performances
 
-<table>
+<table id="past-performances-posters">
 <tr>
 <td><img src="/images/posters/concertposterchristmas2019.jpg" height="290"/></td>
 <td><img src="/images/posters/concertposterspring2019.jpg" height="290"/></td>
