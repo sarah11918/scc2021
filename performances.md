@@ -15,7 +15,7 @@ show_news: true
 
 ### **_Spring Concerts_**
 
-Sunday, May 24 at 7:00 p.m. - Central Queen's United Church, Hunter River PE ([map](https://goo.gl/maps/8BsDwLN2jLK2))
+Sunday, May 24 at 7:00 p.m. - Tentative, Location TBA
 
 Sunday, May 31 at 7:00 p.m. - Trinity United Church, Summerside PE ([map](https://goo.gl/maps/nuzN7oMkWLG2))
 
