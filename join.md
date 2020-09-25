@@ -10,6 +10,14 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 show_news: true
 
 ---
+## _FOR 2020 DUE TO COVID-19:_
+
+_Please note that although we are still welcoming new members to sing with us for the Fall 2020 term starting October 6, interested new members MUST PRE-REGISTER by contacting us in advance of the start of the term._
+
+**_DUE TO PUBLIC HEALTH MANDATES, WE WILL NOT BE ACCEPTING SINGERS OR VISITORS TO REHEARSAL WHO HAVE NOT PRE-REGISTERED AND SUBMITTED HEALTH DECLARATIONS._**
+
+***
+
 We welcome new members for the first three weeks of rehearsals at the beginning of each term in September and January. There is no formal audition process for new members. Those who wish to join as a new singer can simply show up to the first rehearsal, at which point music will be distributed to all singers and you will choose your voice part (Soprano, 2nd Soprano, Alto, Tenor, Baritone, Bass). You are welcome to contact us ahead of time with questions, and we encourage a note just to let us know you might be coming so you'll get all the same pre-term prep info and notifications as our registered members, but it's not required.
 
 All new members will be automatically accepted on a trial basis for a probationary period of approximately one month. This is to ensure that you and the choir are a good fit for each other. You will not be required to formally audition, but our Director may choose to meet with you privately to discuss your fit with the choir, or within your vocal section. This may include listening to your voice privately.
