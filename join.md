@@ -10,9 +10,9 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 show_news: true
 
 ---
-## _FOR 2020 DUE TO COVID-19:_
+## _COVID-19 in 2021:_
 
-_Please note that although we are still welcoming new members to sing with us for the Fall 2020 term starting October 6, interested new members MUST PRE-REGISTER by contacting us in advance of the start of the term._
+_Please note that although we still intend to welcome new members to sing with us for the Fall 2021 term in September, interested new members MUST PRE-REGISTER by contacting us in advance of the start of the term._
 
 **_DUE TO PUBLIC HEALTH MANDATES, WE WILL NOT BE ACCEPTING SINGERS OR VISITORS TO REHEARSAL WHO HAVE NOT PRE-REGISTERED AND SUBMITTED HEALTH DECLARATIONS._**
 
