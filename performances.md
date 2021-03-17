@@ -11,13 +11,11 @@ show_staff: false
 show_news: true
 
 ---
-# 2020 Performances
+# 2021 Performances
 
 ### **_Spring Concerts_**
 
-Sunday, May 24 at 7:00 p.m. - Tentative, Location TBA
-
-Sunday, May 31 at 7:00 p.m. - Trinity United Church, Summerside PE ([map](https://goo.gl/maps/nuzN7oMkWLG2))
+_(Term cancelled due to Covid-19)_
 
 ### **_Christmas Concerts_**
 
